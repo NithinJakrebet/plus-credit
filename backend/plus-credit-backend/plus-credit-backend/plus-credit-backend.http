@@ -1,0 +1,6 @@
+@plus_credit_backend_HostAddress = http://localhost:5273
+
+GET {{plus_credit_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
